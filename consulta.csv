@@ -1,0 +1,13 @@
+reserva_id,usuario_nome,usuario_email,laboratorio,equipamento,data_inicio,data_fim,status,observacoes
+1,Ana Silva,ana.silva@example.com,Lab de Programação,Dell Workstation,2025-09-01T08:00:00.0000000,2025-09-01T10:00:00.0000000,confirmada,Treino de programação
+2,Bruno Souza,bruno.souza@example.com,Lab de Redes,Switch Cisco 2960,2025-09-02T09:00:00.0000000,2025-09-02T11:00:00.0000000,confirmada,Configuração de rede
+3,Carla Pereira,carla.pereira@example.com,Lab de Eletrônica,Osciloscópio Rigol,2025-09-03T14:00:00.0000000,2025-09-03T16:00:00.0000000,cancelada,Problema de equipamento
+4,Diego Lima,diego.lima@example.com,Lab de Eletrônica,Gerador de função,2025-09-04T08:30:00.0000000,2025-09-04T10:00:00.0000000,confirmada,
+5,Eduarda Costa,eduarda.costa@example.com,Lab de Eletrônica,Placa Arduino,2025-09-05T13:00:00.0000000,2025-09-05T14:30:00.0000000,confirmada,Teste Arduino
+6,Felipe Sora,felipe.sora@example.com,Lab de Programação,"Monitor 24""",2025-09-06T15:00:00.0000000,2025-09-06T17:00:00.0000000,confirmada,Aula prática
+7,Ana Silva,ana.silva@example.com,Lab de Redes,,2025-09-07T09:00:00.0000000,2025-09-07T10:00:00.0000000,confirmada,Reserva só do laboratório
+8,Bruno Souza,bruno.souza@example.com,Lab de Programação,Impressora 3D,2025-09-08T10:00:00.0000000,2025-09-08T12:00:00.0000000,pendente,Impressora 3D
+9,Carla Pereira,carla.pereira@example.com,Lab de Redes,Switch Cisco 2960,2025-09-09T14:00:00.0000000,2025-09-09T16:00:00.0000000,confirmada,Topologia nova
+10,Diego Lima,diego.lima@example.com,Lab de Programação,Dell Workstation,2025-09-10T08:00:00.0000000,2025-09-10T09:30:00.0000000,confirmada,
+11,Eduarda Costa,eduarda.costa@example.com,Lab de Programação,"Monitor 24""",2025-09-11T11:00:00.0000000,2025-09-11T12:30:00.0000000,confirmada,Teste de tela
+12,Felipe Sora,felipe.sora@example.com,Lab de Eletrônica,Osciloscópio Rigol,2025-09-12T09:00:00.0000000,2025-09-12T11:00:00.0000000,confirmada,Medições
